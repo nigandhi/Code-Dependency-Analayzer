@@ -1,0 +1,29 @@
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\bin\Debug\Client.exe.config
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\bin\Debug\Client.exe
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\bin\Debug\Client.pdb
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\MainWindow.baml
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\MainWindow.g.cs
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\App.g.cs
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client_MarkupCompile.cache
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.g.resources
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.exe
+c:\Users\Nirav Gandhi\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.pdb
+C:\Users\Nirav\Desktop\Sem2\SMA\Project4\Client\bin\Debug\Client.exe.config
+C:\Users\Nirav\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.exe
+C:\Users\Nirav\Desktop\Sem2\SMA\Project4\Client\obj\Debug\Client.pdb
+E:\SU_Study\Semester2\SMA\Project4\Client\bin\Debug\Client.exe.config
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\Client.exe
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\Client.pdb
+E:\SU_Study\Semester2\SMA\Project4\Client\bin\Debug\Client.exe
+E:\SU_Study\Semester2\SMA\Project4\Client\bin\Debug\Client.pdb
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\MainWindow.baml
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\MainWindow.g.cs
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\App.g.cs
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\Client_MarkupCompile.cache
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\Client.g.resources
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\Client.Properties.Resources.resources
+E:\SU_Study\Semester2\SMA\Project4\Client\obj\Debug\Client.csproj.GenerateResource.Cache

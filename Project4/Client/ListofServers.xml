@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListofServers>
+  <Server name="Server1">8085</Server>
+  <Server name="Server2">8087</Server>
+  <Server name="Server3">8089</Server>
+  <Server name="Server4">8091</Server>
+</ListofServers>
